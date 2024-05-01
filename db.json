@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "246f",
+      "username": "Eugene Emoyo Ojakaa",
+      "email": "emoyoeugine@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "24da",
+      "username": "Eugene Emoyo Ojakaa",
+      "email": "emoyoeugine@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "8a20",
+      "username": "EEAD/02633/2019",
+      "email": "okedieugine@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "4f8b",
+      "username": "EEAD/02633/2019",
+      "email": "emoyoeugine@gmail.com",
+      "password": "23455"
+    },
+    {
+      "id": "4f5c",
+      "username": "Eugene Emoyo Ojakaa",
+      "password": "12345"
+    },
+    {
+      "id": "39eb",
+      "username": "0797086131",
+      "email": "ytrghhj@gmail.com",
+      "password": "tyhgbj"
+    }
+  ]
+}
